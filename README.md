@@ -31,8 +31,3 @@ task_c.add_predecessor(task_b)
 print_dependencies(task_a)
 print_dependencies(task_b)
 print_dependencies(task_c)
-cd task-dependencies-python
-git status
-git add task_dependencies.py
-git commit -m "Add task dependencies script"
-git push origin main

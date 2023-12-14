@@ -31,4 +31,3 @@ task_c.add_predecessor(task_b)
 print_dependencies(task_a)
 print_dependencies(task_b)
 print_dependencies(task_c)
-cd task-dependencies-python
